@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Willow Home Properties]]></title>
+        <description><![CDATA[Willow Home Properties]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Aug 2016 19:17:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New report signals the hottest summer yet for Austin real estate market]]></title>
+            <description><![CDATA[<article><h1>New report signals the hottest summer yet for Austin real estate market</h1><p>With the official start of summer comes a new report from the Austin Board of Realtors (ABoR) that outlines the state of our increasingly hot Austin housing market. Released Tuesday, ABoR's May 2016 report compared single-family home statistics year-over-year across Central Texas counties.</p><img src="http://media.culturemap.com/crop/a3/07/300x300/AIA-Austin-Homes-Tour-2015-Nick-Deaver-exterior_114756.jpg"></article>]]></description>
+            <link>http://austin.culturemap.com/news/real-estate/06-21-16-austin-board-realtors-may-2016-real-estate-housing-report-austin/</link>
+            <guid isPermaLink="false">ba2cd4d2-448b-4d92-bc70-313ad8bbfcef</guid>
+            <pubDate>Thu, 18 Aug 2016 19:17:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
