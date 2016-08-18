@@ -1,7 +1,7 @@
 name: Willow Home Properties
 favicon: null
-layout_spectrum: 0.31853
-typography_spectrum: 0.03992750542238355
+layout_spectrum: 0.5308033623732626
+typography_spectrum: 0.4021851506549865
 title: Willow Home Properties
 cta:
   domain: null
@@ -18,12 +18,12 @@ opengraph:
 color:
   brandColors:
     - '#005392'
-    - '#0a0a0a'
+    - '#0A0A0A'
+    - '#EDFDFF'
     - '#383838'
-    - '#898989'
-    - '#ecfcff'
-  brandStrength: 0.75
-  lightness: 0.9375
-  saturation: 0.5625
-  rhythmicContrast: 0.75
+    - '#97B7CD'
+  brandStrength: 0.3775765581522137
+  lightness: 0.5801303472835571
+  saturation: 0.7378181803505868
+  rhythmicContrast: 0.8419481487944722
 purpose: []
